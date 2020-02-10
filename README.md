@@ -2,6 +2,11 @@
 This game was created using processing and is greatly inspired by the classic game "pong".
 The next gif shows how the game looks:
 
+<div align="center">
+ <img align="center" src="resources/animacion.gif" alt="pong gif"></img>
+ <p align="center">Figure 1: my pong</p>
+</div>
+
 ## Development
 In this case it is a 2 player game controlled by keyboard with 4 different screens: 
 1. Game title screen
