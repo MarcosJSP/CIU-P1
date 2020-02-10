@@ -1,5 +1,5 @@
 # Pong - by MarcosJSP
-This game was created using processing and is greatly inspired by the classic game "pong".
+This game was created using processing and is greatly inspired by the classic game [pong](https://es.wikipedia.org/wiki/Pong).
 The next gif shows how the game looks:
 
 <div align="center">
