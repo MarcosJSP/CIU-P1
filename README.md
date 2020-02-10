@@ -16,7 +16,7 @@ Which is a screen that shows which keys moves each bar. When pressing `ENTER` th
 3. **Game screen**<br>
 Which is actually where the game happens:
 	- The ball spawns on a random position within the center of the field to surprise the players.
-	- Hitting the ball with a player's bar, causes the ball to bounce back with the opposite y-speed.
+	- Hitting the ball with a player's bar, causes the ball to bounce back with the opposite x-speed.
 	- If you miss the hit the opponent's score will increase.
 	- The player that reaches 5 score points wins the game triggering the winning screen to show up.
 	- Also, when the ball hits a bound, or a player's bar it triggers a different sound.
