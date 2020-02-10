@@ -14,10 +14,13 @@ That leads to the help screen when `ENTER` is pressed.
 2. **Help screen**<br>
 Which is a screen that shows which keys moves each bar. When pressing `ENTER` the screen changes to Game screen.
 3. **Game screen**<br>
-Which is actually where the game happens. 
-The ball spawns on a random position within the center of the field. Also, when the ball hits a bound, or a players' bar it triggers a different sound.
-Hitting the ball with a players' bar, causes the ball to bounce back and if you miss the hit it will add a point to the oponents' score.
-The player that reaches 5 score points wins the game triggering the winning screen to show up.
+Which is actually where the game happens:
+- The ball spawns on a random position within the center of the field to surprise the players.
+- Hitting the ball with a players' bar, causes the ball to bounce back with the opposite y-speed.
+- If you miss the hit the opponent's score will increase.
+- The player that reaches 5 score points wins the game triggering the winning screen to show up.
+- Also, when the ball hits a bound, or a players' bar it triggers a different sound.
+
 4. **Winning screen**<br>
 Shows who was the winner and allows the players to play again pressing the `ENTER` key.
 
